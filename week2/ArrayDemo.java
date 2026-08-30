@@ -4,8 +4,8 @@ public class ArrayDemo {
 
     public static void main(String[] args) {
         //Initialize names and score to size three, with names having "Mark", "Nick", and "John".
-        String[] names = {"Mark", "Nick", "John"};
-        int[] score = new int[3];
+        String[] names;
+        int[] score;
         
         //TODO: intialize everyone's score to 0
 
