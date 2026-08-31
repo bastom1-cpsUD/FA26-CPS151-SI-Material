@@ -22,13 +22,14 @@ public class ArrayListDemo {
 
         //TODO: You went to the store and got everything but cups, remove all items except for cups
         //Hint: You need to edit both the item and quantity
+        
 
         printList(item, quantity);
     }
 
     public static void printList(ArrayList<String> items, ArrayList<Integer> quantity) {
         System.out.println("=-=-=-=Store List=-=-=-=");
-        //TODO: Use a form loop to access items from list to print out in format: (item: quantity)
+        //TODO: Use a for loop to access items from list to print out in format: (item: quantity)
         
         
         System.out.println();
